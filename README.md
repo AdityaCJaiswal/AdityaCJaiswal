@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🧩 About Me
 
@@ -38,31 +39,24 @@ I value clean code, clear design, and continuous learning. Outside the IDE, you�
 
 ## 🛠️ Tech Toolbox
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
-![Solidity](https://img.shields.io/badge/Solidity-gray?style=flat&logo=ethereum)
+<div align="left">
 
-**Frontend & UI:**  
-![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css)
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,solidity" />
 
-**Backend & Frameworks:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+### 🎨 Frontend & UI  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-**Databases & Platforms:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+### 🔧 Backend & Frameworks  
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
 
-**Other Tools:**  
+### 🗄️ Databases & Platforms  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+
+</div>
+
+
+**Other Tools and Interests:**  
 Git & GitHub, FAISS, RAG, LM Studio, Aseprite, Tiled, REST APIs
 
 ---
