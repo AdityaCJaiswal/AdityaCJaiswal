@@ -16,14 +16,22 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi, I'm Aditya Jaiswal 👋</h1>
 <p align="center">
-  Full Stack Developer • AI & Blockchain Enthusiast • B.Tech IT @ RCOEM (2027)
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Exploring+AI,+Cloud,+and+Systems+Design;Hands-on+with+MERN,+Spring+Boot,+Django;Building+projects+to+learn,+not+just+ship;Focused+on+writing+clean,+scalable+code;Always+curious,+always+learning&center=true&width=600&height=45" />
 </p>
 
+
 <p align="center">
-  <a href="mailto:adityacjaiswal@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/adityajaiswal1">LinkedIn</a> •
-  <a href="https://github.com/AdityaCJaiswal">GitHub</a>
+  <a href="mailto:adityajaiswal.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal1">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdityaCJaiswal">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
