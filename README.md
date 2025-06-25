@@ -69,29 +69,6 @@ Git & GitHub, FAISS, RAG, LM Studio, Aseprite, Tiled, REST APIs
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 [AdaptiveLearn](https://adaptivelearn.vercel.app/)
-AI-powered personalized learning platform.  
-**Tech Stack:** React, Node.js, Supabase, ML, YouTube API  
-→ Custom recommendation engine, behavioral analytics, and dynamic learning paths  
-[🔗 GitHub Repo](https://github.com/AdityaCJaiswal/Personalized-Video-Learning-Path)
-
----
-
-### 🧠 [Docintel](https://github.com/AdityaCJaiswal/DocIntel-Document-Intelligence-Platform)
-An AI Document Intelligence Platform using RAG.  
-**Tech Stack:** Django REST, React, MySQL, FAISS, SentenceTransformers, LM Studio  
-→ Upload PDFs/DOCX and interactively query them with vector search + local LLM
-
----
-
-### ⏳ [Time Capsule DApp](https://time-capsule-blockchain.vercel.app/)
-Blockchain-based DApp to store and reveal time-locked messages.  
-**Tech Stack:** Solidity, Ethereum, MERN Stack  
-→ Smart contracts with timestamp logic to unlock future-bound messages
-
----
 
 ## 🏅 Achievements
 
