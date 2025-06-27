@@ -50,7 +50,7 @@ I value clean code, clear design, and continuous learning. Outside the IDE, you�
 <div align="left">
 
 ### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,solidity" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 
 ### 🎨 Frontend & UI  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
@@ -61,11 +61,11 @@ I value clean code, clear design, and continuous learning. Outside the IDE, you�
 ### 🗄️ Databases & Platforms  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
-</div>
 
-
-**Other Tools and Interests:**  
+### Other Tools and Interests:
 Git & GitHub, FAISS, RAG, LM Studio, Aseprite, Tiled, REST APIs
+
+</div>
 
 ---
 
