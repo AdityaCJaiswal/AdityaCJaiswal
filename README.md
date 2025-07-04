@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/AdityaCJaiswal">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://adityacjaiswal.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 
