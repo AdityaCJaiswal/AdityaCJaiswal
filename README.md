@@ -44,10 +44,6 @@ I believe in the power of **clean code**, intuitive design, and the importance o
 
 A collection of tools and technologies I use to bring ideas to life.
 
-## 🛠️ My Tech Stack
-
-A collection of tools and technologies I use to bring ideas to life.
-
 <div align="center">
   <table>
     <tr>
