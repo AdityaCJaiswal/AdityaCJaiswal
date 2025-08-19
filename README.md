@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Jaiswal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Currently+Learning+AWS+&+Cloud+Technologies;Building+Scalable+and+Efficient+Systems;MERN+Stack+%7C+Spring+Boot+%7C+Django;Passionate+about+Clean+Code+and+Design&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Currently+Learning+AWS+%26+Cloud+Technologies;Building+Scalable+and+Efficient+Systems;MERN+Stack+%7C+Spring+Boot+%7C+Django;Passionate+about+Clean+Code+and+Design&center=true&width=600&height=45" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I believe in the power of **clean code**, intuitive design, and the importance o
 ## 🚀 What I'm Currently Focused On
 
 * 🌱 **Learning:** Diving deep into **Amazon Web Services (AWS)** to master cloud architecture and deployment. 
-* 🔭 **Building:** Applying my skills to a personal project involving a serverless backend using AWS Lambda, API Gateway, and DynamoDB.
+* 🧠 **Problem-Solving:** Sharpening my algorithmic thinking by consistently solving data structure and algorithm challenges on platforms like LeetCode.
 * 👯 **Collaborating:** I'm always open to connecting with other developers and contributing to open-source projects.
 * 🔬 **Experimenting with:** Getting hands-on with **Docker** and containerization to better understand microservices architecture.
 
